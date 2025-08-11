@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GADE2B_PART1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE2B_PART1/Intermediate/Build/Win64/x64/GADE2B_PART1Editor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE2B_PART1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE2B_PART1/GADE2B_PART1.cpp.obj"
+"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE2B_PART1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE2B_PART1/PerModuleInline.gen.cpp.obj"
+"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE2B_PART1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE2B_PART1/Default.rc2.res"
+/OUT:"C:/Users/Xiluva/OneDrive - ADvTECH Ltd/Documents/Unreal Projects/GADE2B_PART1/Intermediate/Build/Win64/x64/UnrealEditor/Development/GADE2B_PART1/UnrealEditor-GADE2B_PART1.lib"
